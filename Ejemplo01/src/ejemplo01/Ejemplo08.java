@@ -12,7 +12,6 @@ package ejemplo01;
 public class Ejemplo08 {
     public static void main(String[] args) {
         // Ejemplo de uso de printf con decimales
-        
         boolean a = true;
         boolean b = false;
         boolean c = a || b;

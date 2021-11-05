@@ -12,11 +12,11 @@ package ejemplo01;
 public class Ejemplo05 {
     public static void main(String[] args) {
         // Secuencia de escape \n y \t
-        String nombreEstudiante = "René Rolando";
-        String apellidoEstudiante = "Elizalde Solano";
-        int nacimiento = 1983;
+        String nombreEstudiante = "Ronin Carrion";
+        String apellidoEstudiante = "Carrión Carrión";
+        int nacimiento = 2004;
         
-        System.out.println(nombreEstudiante+"\n"+apellidoEstudiante+ "\n"+ 
+        System.out.println(nombreEstudiante+"\n\n"+apellidoEstudiante+ "\n\n"+ 
                 nacimiento);   
         System.out.println(nombreEstudiante+"\t"+apellidoEstudiante);   
     }
